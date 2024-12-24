@@ -1,0 +1,21 @@
+* {
+    background: #E9E4E5;
+}
+
+p {
+    font-family: futura-pt, book;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  h1 {
+    font-family: "futura-pt", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.225em;
+  }
+
+.intro {
+    text-align: center;
+
+}
