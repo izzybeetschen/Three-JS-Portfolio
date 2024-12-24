@@ -1,5 +1,6 @@
 * {
     background: #E9E4E5;
+    color: #4B613E;
 }
 
 p {
@@ -8,14 +9,49 @@ p {
     font-style: normal;
   }
 
-  h1 {
+h1 {
     font-family: "futura-pt", sans-serif;
     font-weight: 700;
     font-style: normal;
     letter-spacing: 0.225em;
-  }
+}
 
 .intro {
     text-align: center;
-
 }
+
+.project {
+    color: #4B613E;
+    border-bottom-style: solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-bottom-width: 3px;
+    height: 300px;
+}
+
+.project-title {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+
+.project-left {
+    width: 45%;
+    float: left;
+    padding-right: 5%;
+    text-align: center;
+    max-height: 280px;
+  }
+  
+.project-right {
+    width: 45%;
+    float: right;
+    padding-left: 5%;
+    max-height: 280px;
+}
+
+.project-image {
+    max-width: 95%;
+    padding-bottom: 40px;
+    max-height: 200px;
+  }
